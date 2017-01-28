@@ -21,6 +21,9 @@ gem 'puma', '~> 3.0'
 # bcrypt for password
 gem 'bcrypt', '~> 3.1.7'
 
+# JWT gem
+gem 'jwt'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
